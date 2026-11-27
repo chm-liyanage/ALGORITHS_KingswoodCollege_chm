@@ -12,7 +12,7 @@ Internal tool for EcoSpark Innovations to track shared equipments.
 
 ## Accessing the site
 
-You can open the hosted site by the link here -> 
+You can open the hosted site by the link here -> `https://algoriths-kingswoodcollege-chm.netlify.app/`
 
 ## Running Locally
 
