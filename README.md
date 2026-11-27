@@ -28,13 +28,6 @@ You'll need **Node.js** and **npm** installed.
 
 4. Open the local address shown in your terminal (usually `http://localhost:5173`).
 
-### Production Build Check
-
-To verify the production bundle before deploying:
-
-*npm run build*
-*npm run preview*
-
 
 ## Notes
 
